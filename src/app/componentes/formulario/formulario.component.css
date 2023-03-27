@@ -1,0 +1,9 @@
+input[type="text"]{
+    background-color: #C0C0C0;
+    border: none;
+}
+
+.botones{
+    margin-left: 0.5em;
+    margin-top: 0.5em;
+}
